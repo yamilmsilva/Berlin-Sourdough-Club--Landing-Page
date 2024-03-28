@@ -1,7 +1,7 @@
 
 # Berlin-Sourdough-Club--Landing-Page
 
-Small Landing Page with CSS & HTML.
+Small Landing Page with CSS & HTML.Responsive
 Desktop first .
 
 
@@ -10,15 +10,6 @@ Desktop first .
 
 ## Demo
 [https://lpphoto2024.netlify.app/](https://berlinsourdoughclub.netlify.app/)
-
-## Appendix
-
-I utilized JavaScript library for animating the buttons: https://scrollrevealjs.org/
-
-then Remixicon for css:
-https://remixicon.com/
-
-and finally HTML.
 
 ## Note - Keep in mind
 REMEMBER THAT IF YOUR LAYOUT IS 
@@ -30,7 +21,7 @@ MOBILE FIRST: IN MEDIA QUERIES GO "min-width"  "<"
 
 
 ## 🛠 Skills
-Javascript, HTML, CSS.
+BASIC TOOLS HTML, CSS.
 
 
 ## 🚀 About Me
