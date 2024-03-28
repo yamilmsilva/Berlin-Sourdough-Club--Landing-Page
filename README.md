@@ -9,7 +9,7 @@ Desktop first .
 ![App Screenshot](screen-shot/SCR-20240321-rudu.jpeg )
 
 ## Demo
-https://lpphoto2024.netlify.app/
+[https://lpphoto2024.netlify.app/](https://berlinsourdoughclub.netlify.app/)
 
 ## Appendix
 
