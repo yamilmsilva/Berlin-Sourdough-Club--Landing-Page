@@ -1,12 +1,12 @@
 
-# Landing-page
+# Berlin-Sourdough-Club--Landing-Page
 
-Small Landing Page with JS-Library, CSS & HTML.
+Small Landing Page with CSS & HTML.
 Desktop first .
 
 
 ## Screenshots
-![App Screenshot](screen-shot/SCR-20240321-rudu.jpeg )
+![App Screenshot](screenshot/SCR-20240328-nvax.png)
 
 ## Demo
 [https://lpphoto2024.netlify.app/](https://berlinsourdoughclub.netlify.app/)
